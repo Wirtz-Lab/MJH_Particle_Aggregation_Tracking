@@ -1,3 +1,8 @@
+# This script was created by Rob Campbell at "raacampbell"
+# Following GNU Lesser General Public License v3.0
+
+
+
 # shadedErrorBar
 
 `shadedErrorBar` is a MATLAB function that creates a continuous shaded error region around a line rather than discrete bars. 
